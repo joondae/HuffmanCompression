@@ -1,0 +1,2 @@
+# HuffmanCompression
+Huffman coding project
